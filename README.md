@@ -21,10 +21,10 @@ mod_darkmodetoggle is A minimal jQuery snippet that enables a switch control to 
 
 
 <ul>
-<li>Select the images and configure the module.</li>
+<li>configure the module.</li>
 </ul>
 
-![](https://github.com/alvinalvin/holamundo/blob/f692cf3b6beff751f07fdac84ff51c88eea99406/imagenoo.jpg)
+![](https://github.com/alvinalvin/holamundo/blob/e8d347ccd4b1fb04df8fbe9496e661bdf7657e7f/colordark.jpg)
 
 # Change Log
 
