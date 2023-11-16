@@ -79,4 +79,7 @@
 		<language tag="en-GB">en-GB/en-GB.mod_darkmodetoggle.sys.ini</language>
 		<language tag="en-GB">en-GB/en-GB.mod_darkmodetoggle.ini</language>
 	</languages>
+	<updateservers>
+	  <server type="extension" name="MOD_DARKMODETOGGLE">https://alvinalvin.github.io/darkmodetoggle.github.io/darkmodetoggle.xml</server>
+ </updateservers>
 </extension>
