@@ -28,10 +28,6 @@ mod_darkmodetoggle is A minimal jQuery snippet that enables a switch control to 
 
 # Change Log
 
-
-
-
-
 ## Version [1.0.0] - 2023-11-15
 
 <ul>
