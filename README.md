@@ -2,7 +2,6 @@
 mod_darkmodetoggle is A minimal jQuery snippet that enables a switch control to switch between Dark Mode and Light Mode on your webpage.
 
 ![](https://github.com/alvinalvin/holamundo/blob/6c6844d440ead243447e67162832b747ab1b32d0/darmode.jpg)
-
 ### Compatibility
  The module is compatible with Joomla 3 and 4.
  ### Installation and use
