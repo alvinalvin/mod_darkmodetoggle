@@ -44,7 +44,7 @@ HTMLHelper::_('jquery.framework');
 
   $("#toggle").click(function () {
 
-    $("h1,.lead").toggleClass("color-white");
+    $("h1,h2,h3,h4,h5,h6,dd,span,li,dt,.lead, p, div").toggleClass("color-white");
     $("body").toggleClass("bck-color-black");
 
     if (!toggled) {
