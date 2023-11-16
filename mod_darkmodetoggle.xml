@@ -31,8 +31,6 @@
 				<field name="border-button" default="#000000" type="color" label="border-color-button"/>
 
 			</fieldset>
-		</fields>
-		<fields name="params">
 			<fieldset
 				name="advanced">
 				<field
