@@ -17,7 +17,7 @@ mod_darkmodetoggle is A minimal jQuery snippet that enables a switch control to 
 <li>Look for the extensions manager and go to the module.</li>
 </ul>
 
-![](https://github.com/alvinalvin/holamundo/blob/8a0f40b14384a2ee7e2d17eea42ab4eeb104244c/imagen.jpg)
+![](https://github.com/alvinalvin/holamundo/blob/0371748e771f52df42c3730bbd957c1f579d9ca9/modulodark.jpg)
 
 
 <ul>
