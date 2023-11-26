@@ -1,7 +1,8 @@
 <?php
 /**
- * @copyright	Copyright © 2023 - All rights reserved.
- * @license		GNU General Public License v2.0
+* Developer: Alvin Gil Saldaña.
+* @copyright	Copyright © 2023 - All rights reserved.
+* @license		GNU General Public License v2.0
  */
 defined('_JEXEC') or die;
 // jquery
@@ -51,10 +52,11 @@ HTMLHelper::_('jquery.framework');
 
       circle.css("margin-left", "35px");
         toggled = true;
+        // 1 35
 
     } else {
 
-        circle.css("margin-left", "1px");
+        circle.css("margin-left", "2px");
         toggled = false;
       }
     });

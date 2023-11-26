@@ -1,5 +1,6 @@
 <?php
 /**
+ * Developer: Alvin Gil Saldaña.
  * @copyright	Copyright © 2023 - All rights reserved.
  * @license		GNU General Public License v2.0
  */
