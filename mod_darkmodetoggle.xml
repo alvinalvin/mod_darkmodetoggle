@@ -80,6 +80,6 @@
 		<language tag="en-GB">en-GB/en-GB.mod_darkmodetoggle.ini</language>
 	</languages>
 	<updateservers>
-	  <server type="extension" name="MOD_DARKMODETOGGLE">https://github.com/alvinalvin/updateserver.github.io</server>
+	  <server type="extension" name="MOD_DARKMODETOGGLE">https://github.com/alvinalvin/updateserver.github.io/blob/main/darkmodetoggle.xml</server>
  </updateservers>
 </extension>
